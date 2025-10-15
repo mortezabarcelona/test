@@ -1,0 +1,690 @@
+[
+    {
+        "id": null,
+        "code": null,
+        "cisp_code": null,
+        "cisp_operation": null,
+        "callsign": "OP_0",
+        "operator": null,
+        "drone": null,
+        "pilot": null,
+        "is_cancelled": null,
+        "is_activated": null,
+        "is_terminated": null,
+        "requires_authorization": null,
+        "rigid_authorization": null,
+        "is_authorized": null,
+        "is_unauthorized": null,
+        "authority_comment": null,
+        "priority_type": null,
+        "external": null,
+        "description": null,
+        "line_of_sight": null,
+        "mission_scenario": null,
+        "mission_activity": null,
+        "telemetry_codes": {},
+        "request": "1970-01-01 01:00:00",
+        "created": null,
+        "accepted": null,
+        "no_signal": null,
+        "loss_adherence_time": null,
+        "launch_window/lower": null,
+        "launch_window/upper": null,
+        "tolerance/lower": null,
+        "tolerance/upper": null,
+        "minimum_submission": null,
+        "confirmation_window": null,
+        "geometry": [
+            {
+                "properties": {
+                    "minimum_separation/horizontal": null,
+                    "minimum_separation/vertical": null,
+                    "threshold/loss_adherence/distance": null,
+                    "threshold/loss_adherence/distance/vertical": null
+                },
+                "type": "Trajectory",
+                "coordinates": [
+                    [
+                        0.7154770887707279,
+                        40.6802000976991,
+                        1000.0,
+                        0
+                    ],
+                    [
+                        0.715560988990712,
+                        40.68039869904783,
+                        1000.0,
+                        3
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681613461116356,
+                        1000.0,
+                        17
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681613461116356,
+                        1000.0,
+                        32
+                    ],
+                    [
+                        0.7171806717487481,
+                        40.681613461116356,
+                        1000.0,
+                        33
+                    ],
+                    [
+                        0.7170456981855785,
+                        40.681613461116356,
+                        1000.0,
+                        34
+                    ],
+                    [
+                        0.7169107246224088,
+                        40.681613461116356,
+                        1000.0,
+                        35
+                    ],
+                    [
+                        0.7169107246224088,
+                        40.681478487553186,
+                        1000.0,
+                        36
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681478487553186,
+                        1000.0,
+                        37
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681343513990015,
+                        1000.0,
+                        39
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681208540426844,
+                        1000.0,
+                        41
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681073566863674,
+                        1000.0,
+                        42
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.6809385933005,
+                        1000.0,
+                        43
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.68080361973733,
+                        1000.0,
+                        45
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.68066864617417,
+                        1000.0,
+                        47
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.68066864617417,
+                        1000.0,
+                        57
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681613461116356,
+                        1000.0,
+                        68
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681613461116356,
+                        1000.0,
+                        73
+                    ],
+                    [
+                        0.7173229306104919,
+                        40.68159989495203,
+                        1000.0,
+                        74
+                    ]
+                ]
+            }
+        ],
+        "telemetry_updates": []
+    },
+    {
+        "id": null,
+        "code": null,
+        "cisp_code": null,
+        "cisp_operation": null,
+        "callsign": "OP_1",
+        "operator": null,
+        "drone": null,
+        "pilot": null,
+        "is_cancelled": null,
+        "is_activated": null,
+        "is_terminated": null,
+        "requires_authorization": null,
+        "rigid_authorization": null,
+        "is_authorized": null,
+        "is_unauthorized": null,
+        "authority_comment": null,
+        "priority_type": null,
+        "external": null,
+        "description": null,
+        "line_of_sight": null,
+        "mission_scenario": null,
+        "mission_activity": null,
+        "telemetry_codes": {},
+        "request": "1970-01-01 01:00:00",
+        "created": null,
+        "accepted": null,
+        "no_signal": null,
+        "loss_adherence_time": null,
+        "launch_window/lower": null,
+        "launch_window/upper": null,
+        "tolerance/lower": null,
+        "tolerance/upper": null,
+        "minimum_submission": null,
+        "confirmation_window": null,
+        "geometry": [
+            {
+                "properties": {
+                    "minimum_separation/horizontal": null,
+                    "minimum_separation/vertical": null,
+                    "threshold/loss_adherence/distance": null,
+                    "threshold/loss_adherence/distance/vertical": null
+                },
+                "type": "Trajectory",
+                "coordinates": [
+                    [
+                        0.7154770887707279,
+                        40.6802000976991,
+                        1000.0,
+                        0
+                    ],
+                    [
+                        0.715560988990712,
+                        40.68039869904783,
+                        1000.0,
+                        3
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681613461116356,
+                        1000.0,
+                        17
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681613461116356,
+                        1000.0,
+                        32
+                    ],
+                    [
+                        0.7171806717487481,
+                        40.681613461116356,
+                        1000.0,
+                        33
+                    ],
+                    [
+                        0.7170456981855785,
+                        40.681613461116356,
+                        1000.0,
+                        34
+                    ],
+                    [
+                        0.7169107246224088,
+                        40.681613461116356,
+                        1000.0,
+                        35
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681613461116356,
+                        1000.0,
+                        36
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681478487553186,
+                        1000.0,
+                        38
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681343513990015,
+                        1000.0,
+                        39
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681208540426844,
+                        1000.0,
+                        40
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681073566863674,
+                        1000.0,
+                        42
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.6809385933005,
+                        1000.0,
+                        44
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.68080361973733,
+                        1000.0,
+                        45
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.68066864617417,
+                        1000.0,
+                        46
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.680533672611,
+                        1000.0,
+                        48
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.680533672611,
+                        1000.0,
+                        58
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681613461116356,
+                        1000.0,
+                        70
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681613461116356,
+                        1000.0,
+                        75
+                    ],
+                    [
+                        0.7173229306104919,
+                        40.68159989495203,
+                        1000.0,
+                        76
+                    ]
+                ]
+            }
+        ],
+        "telemetry_updates": []
+    },
+    {
+        "id": null,
+        "code": null,
+        "cisp_code": null,
+        "cisp_operation": null,
+        "callsign": "OP_2",
+        "operator": null,
+        "drone": null,
+        "pilot": null,
+        "is_cancelled": null,
+        "is_activated": null,
+        "is_terminated": null,
+        "requires_authorization": null,
+        "rigid_authorization": null,
+        "is_authorized": null,
+        "is_unauthorized": null,
+        "authority_comment": null,
+        "priority_type": null,
+        "external": null,
+        "description": null,
+        "line_of_sight": null,
+        "mission_scenario": null,
+        "mission_activity": null,
+        "telemetry_codes": {},
+        "request": "1970-01-01 01:00:00",
+        "created": null,
+        "accepted": null,
+        "no_signal": null,
+        "loss_adherence_time": null,
+        "launch_window/lower": null,
+        "launch_window/upper": null,
+        "tolerance/lower": null,
+        "tolerance/upper": null,
+        "minimum_submission": null,
+        "confirmation_window": null,
+        "geometry": [
+            {
+                "properties": {
+                    "minimum_separation/horizontal": null,
+                    "minimum_separation/vertical": null,
+                    "threshold/loss_adherence/distance": null,
+                    "threshold/loss_adherence/distance/vertical": null
+                },
+                "type": "Trajectory",
+                "coordinates": [
+                    [
+                        0.7154770887707279,
+                        40.6802000976991,
+                        1000.0,
+                        0
+                    ],
+                    [
+                        0.715560988990712,
+                        40.68039869904783,
+                        1000.0,
+                        3
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681613461116356,
+                        1000.0,
+                        17
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681478487553186,
+                        1000.0,
+                        18
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681343513990015,
+                        1000.0,
+                        19
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681208540426844,
+                        1000.0,
+                        21
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681208540426844,
+                        1000.0,
+                        31
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681613461116356,
+                        1000.0,
+                        36
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681613461116356,
+                        1000.0,
+                        51
+                    ],
+                    [
+                        0.7173229306104919,
+                        40.68159989495203,
+                        1000.0,
+                        52
+                    ]
+                ]
+            }
+        ],
+        "telemetry_updates": []
+    },
+    {
+        "id": null,
+        "code": null,
+        "cisp_code": null,
+        "cisp_operation": null,
+        "callsign": "OP_3",
+        "operator": null,
+        "drone": null,
+        "pilot": null,
+        "is_cancelled": null,
+        "is_activated": null,
+        "is_terminated": null,
+        "requires_authorization": null,
+        "rigid_authorization": null,
+        "is_authorized": null,
+        "is_unauthorized": null,
+        "authority_comment": null,
+        "priority_type": null,
+        "external": null,
+        "description": null,
+        "line_of_sight": null,
+        "mission_scenario": null,
+        "mission_activity": null,
+        "telemetry_codes": {},
+        "request": "1970-01-01 01:00:00",
+        "created": null,
+        "accepted": null,
+        "no_signal": null,
+        "loss_adherence_time": null,
+        "launch_window/lower": null,
+        "launch_window/upper": null,
+        "tolerance/lower": null,
+        "tolerance/upper": null,
+        "minimum_submission": null,
+        "confirmation_window": null,
+        "geometry": [
+            {
+                "properties": {
+                    "minimum_separation/horizontal": null,
+                    "minimum_separation/vertical": null,
+                    "threshold/loss_adherence/distance": null,
+                    "threshold/loss_adherence/distance/vertical": null
+                },
+                "type": "Trajectory",
+                "coordinates": [
+                    [
+                        0.7154770887707279,
+                        40.6802000976991,
+                        1000.0,
+                        0
+                    ],
+                    [
+                        0.715560988990712,
+                        40.68039869904783,
+                        1000.0,
+                        3
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681613461116356,
+                        1000.0,
+                        17
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681613461116356,
+                        1000.0,
+                        32
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681478487553186,
+                        1000.0,
+                        33
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681343513990015,
+                        1000.0,
+                        34
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681208540426844,
+                        1000.0,
+                        36
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681073566863674,
+                        1000.0,
+                        38
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.6809385933005,
+                        1000.0,
+                        39
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.6809385933005,
+                        1000.0,
+                        49
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681613461116356,
+                        1000.0,
+                        57
+                    ],
+                    [
+                        0.7173229306104919,
+                        40.68159989495203,
+                        1000.0,
+                        58
+                    ]
+                ]
+            }
+        ],
+        "telemetry_updates": []
+    },
+    {
+        "id": null,
+        "code": null,
+        "cisp_code": null,
+        "cisp_operation": null,
+        "callsign": "OP_4",
+        "operator": null,
+        "drone": null,
+        "pilot": null,
+        "is_cancelled": null,
+        "is_activated": null,
+        "is_terminated": null,
+        "requires_authorization": null,
+        "rigid_authorization": null,
+        "is_authorized": null,
+        "is_unauthorized": null,
+        "authority_comment": null,
+        "priority_type": null,
+        "external": null,
+        "description": null,
+        "line_of_sight": null,
+        "mission_scenario": null,
+        "mission_activity": null,
+        "telemetry_codes": {},
+        "request": "1970-01-01 01:00:00",
+        "created": null,
+        "accepted": null,
+        "no_signal": null,
+        "loss_adherence_time": null,
+        "launch_window/lower": null,
+        "launch_window/upper": null,
+        "tolerance/lower": null,
+        "tolerance/upper": null,
+        "minimum_submission": null,
+        "confirmation_window": null,
+        "geometry": [
+            {
+                "properties": {
+                    "minimum_separation/horizontal": null,
+                    "minimum_separation/vertical": null,
+                    "threshold/loss_adherence/distance": null,
+                    "threshold/loss_adherence/distance/vertical": null
+                },
+                "type": "Trajectory",
+                "coordinates": [
+                    [
+                        0.7154770887707279,
+                        40.6802000976991,
+                        1000.0,
+                        0
+                    ],
+                    [
+                        0.715560988990712,
+                        40.68039869904783,
+                        1000.0,
+                        3
+                    ],
+                    [
+                        0.715560988990712,
+                        40.681613461116356,
+                        1000.0,
+                        17
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681613461116356,
+                        1000.0,
+                        32
+                    ],
+                    [
+                        0.7171806717487481,
+                        40.681613461116356,
+                        1000.0,
+                        33
+                    ],
+                    [
+                        0.7170456981855785,
+                        40.681613461116356,
+                        1000.0,
+                        34
+                    ],
+                    [
+                        0.7169107246224088,
+                        40.681613461116356,
+                        1000.0,
+                        35
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681613461116356,
+                        1000.0,
+                        36
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681478487553186,
+                        1000.0,
+                        38
+                    ],
+                    [
+                        0.7167757510592391,
+                        40.681478487553186,
+                        1000.0,
+                        48
+                    ],
+                    [
+                        0.7173156453119178,
+                        40.681478487553186,
+                        1000.0,
+                        53
+                    ],
+                    [
+                        0.7173229306104919,
+                        40.68159989495203,
+                        1000.0,
+                        55
+                    ]
+                ]
+            }
+        ],
+        "telemetry_updates": []
+    }
+]

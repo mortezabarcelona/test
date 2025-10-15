@@ -1,0 +1,3 @@
+
+import dronas2_partake.javapipe.partake_java_package, javapipe
+javapipe.jvmstarter.start_jvm_with_bundles(bundles=[dronas2_partake.javapipe.partake_java_package.PARTAKE_JAVA_BUNDLE])

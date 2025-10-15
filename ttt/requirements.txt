@@ -1,0 +1,7 @@
+
+ortools~=9.12.4544
+sortedcontainers~=2.4.0
+jpype1~=1.5.2
+
+
+pqdict~=1.4.0
